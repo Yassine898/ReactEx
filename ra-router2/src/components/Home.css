@@ -1,0 +1,33 @@
+.home {
+    text-align: center;
+  }
+  
+  .article-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .article-item {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  .article-item img {
+    max-width: 100%;
+    border-radius: 8px;
+  }
+
+  .article {
+    text-align: center;
+  }
+  
+  .article img {
+    max-width: 50%;
+    margin-bottom: 20px;
+  }
+  

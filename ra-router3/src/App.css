@@ -1,0 +1,32 @@
+/* ArticlesDetails.css */
+.articles-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.articles-details img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.articles-details h2 {
+  font-size: 2em;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.articles-details p {
+  font-size: 1.2em;
+  color: #555;
+  margin-bottom: 10px;
+}
+
+.articles-details .stock {
+  font-weight: bold;
+  color: #007BFF;
+}
